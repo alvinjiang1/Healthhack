@@ -1,0 +1,454 @@
+
+"SAME
+Singapore
+General Hospital
+SingHealth
+Requested By: Guo Yuxin (Doctor)
+TAY AH CHOO
+MRN/ Visit No.:
+Visit Status: ADM
+16-Apr-2017 22:33
+Operation Started
+Date/Time
+Type of Operation
+Surgical Code
+Surgical Description
+First Surgeon MCR
+First Surgeon Name
+Priority of Operation
+Pre-Operative Diagnosis
+Post Operation Diagnosis
+Type of Anaesthesia
+Findings
+F1349262W/6717328747E
+Primary Provider: TANG CHOONG LEONG
+Operation Report
+Operative Procedures.
+16/04/2017 19:50
+Singapore General Hospital
+Patient Results
+Medical
+SF802C
+COLON, VARIOUS LESIONS, COLOSTOMY
+13980G
+GOH MINGHUI
+Emergency
+pneumoperitoneum likely sec sigmoid perf
+PERFORATED UPPER RECTAL CANCER
+GA
+COLECTOMY TUMOR FINDINGS:
+PERFORATED CIRCUMFERENTIAL UPPER RECTAL / RECTOSIGMOID TUMOUR
+COLECTOMY TUMOR PROCEDURES:
+Sex: F
+Age: 48y
+Locn: W47A-0022-06
+GA
+LLOYD DAVIS
+CLEANED AND DRAPED
+OPEN INSERTION OF HASSAN'S TROCAR
+RIF AND RHC WORKING PORTS INSERTED UNDER DIRECT VISION
+DIAGNOSTIC LAPAROSCOPY PERFORMED
+PERFORATED POSTERIORLY WITH ABSCESS CAVITY (PUS ONLY) IN PRESACRAL FASCIA
+TUMOUR FIXED TO SACRUM POSTERIORLY
+- ABDOMINAL CAVITY CONTAMINATED BY PUS (NO FAECES)
+- LARGE UTERINE FIBROID OBSCURING PELVIC INLET
+- NO OBVIOUS LIVER / PERITONEAL/ OVARIAN METS
+3008-18-080-C
+LOWER MIDLINE INCISION
+ONTABLE FLEXIBLE SIGMOIDOSCOPY PERFORMED
+COLONIC TUMOUR CONFIRMED AND BIOPSIED- NO ACTIVE AIR LEAK NOTED
+ABDOMINAL CAVITY WASHED OUT WITH COPIOUS AMOUNTS OF N/S (5L)
+BLAKE DRAIN INSERTED INTO PELVIS
+DISTAL WASHOUT PERFORMED
+MASS CLOSURE WITH LOOP PDS
+STAPLES TO SKIN
+SIGMOID COLOSTOMY MATURED OVER STOMA ROD IN LIF
+STOMA BAG APPLIED
+23-Apr-2017 09:47 AM
+52264933:1:1
+Final
+Printed from: Singapore General Hospital
+Final
+Final
+Final
+Final
+Final
+FINDINGS AS NOTED
+DECISION MADE TO CONVERT TO OPEN DUE TO HEAVY AND LARGE UTERUS OBSCURING VIEW
+INTO PELVIS
+Final
+Final
+Final
+Final
+Final
+DISCUSSED WITH PROF TANG
+IN VIEW OF TUMOUR ADHERENCE TO SACRUM AND NO ACTIVE LEAK NOTED - DECISION MADE
+FOR DEFUNCTIONING SIGMOID COLOSTOMY AND WASHOUT; FOR CONSIDERATION OF POST OP
+CHEMORADIOTHERAPY
+Final
+DOB: 21-Mar-1969
+ONTABLE FLEXIBLE SIGMOIDOSCOPY PERFORMED TO OBTAIN HISTO FROM TUMOUR
+Final
+Page: 1 of 2"
+"SAME"
+"Singapore"
+"General"
+"Hospital"
+"SingHealth"
+"Requested"
+"By"
+":"
+"Guo"
+"Yuxin"
+"("
+"Doctor"
+")"
+"TAY"
+"AH"
+"CHOO"
+"MRN"
+"/"
+"Visit"
+"No"
+".:"
+"Visit"
+"Status"
+":"
+"ADM"
+"16"
+"-"
+"Apr"
+"-"
+"2017"
+"22:33"
+"Operation"
+"Started"
+"Date"
+"/"
+"Time"
+"Type"
+"of"
+"Operation"
+"Surgical"
+"Code"
+"Surgical"
+"Description"
+"First"
+"Surgeon"
+"MCR"
+"First"
+"Surgeon"
+"Name"
+"Priority"
+"of"
+"Operation"
+"Pre"
+"-"
+"Operative"
+"Diagnosis"
+"Post"
+"Operation"
+"Diagnosis"
+"Type"
+"of"
+"Anaesthesia"
+"Findings"
+"F1349262W"
+"/"
+"6717328747E"
+"Primary"
+"Provider"
+":"
+"TANG"
+"CHOONG"
+"LEONG"
+"Operation"
+"Report"
+"Operative"
+"Procedures"
+"."
+"16/04/2017"
+"19:50"
+"Singapore"
+"General"
+"Hospital"
+"Patient"
+"Results"
+"Medical"
+"SF802C"
+"COLON"
+","
+"VARIOUS"
+"LESIONS"
+","
+"COLOSTOMY"
+"13980G"
+"GOH"
+"MINGHUI"
+"Emergency"
+"pneumoperitoneum"
+"likely"
+"sec"
+"sigmoid"
+"perf"
+"PERFORATED"
+"UPPER"
+"RECTAL"
+"CANCER"
+"GA"
+"COLECTOMY"
+"TUMOR"
+"FINDINGS"
+":"
+"PERFORATED"
+"CIRCUMFERENTIAL"
+"UPPER"
+"RECTAL"
+"/"
+"RECTOSIGMOID"
+"TUMOUR"
+"COLECTOMY"
+"TUMOR"
+"PROCEDURES"
+":"
+"Sex"
+":"
+"F"
+"Age"
+":"
+"48y"
+"Locn"
+":"
+"W47A"
+"-"
+"0022-06"
+"GA"
+"LLOYD"
+"DAVIS"
+"CLEANED"
+"AND"
+"DRAPED"
+"OPEN"
+"INSERTION"
+"OF"
+"HASSAN'S"
+"TROCAR"
+"RIF"
+"AND"
+"RHC"
+"WORKING"
+"PORTS"
+"INSERTED"
+"UNDER"
+"DIRECT"
+"VISION"
+"DIAGNOSTIC"
+"LAPAROSCOPY"
+"PERFORMED"
+"PERFORATED"
+"POSTERIORLY"
+"WITH"
+"ABSCESS"
+"CAVITY"
+"("
+"PUS"
+"ONLY"
+")"
+"IN"
+"PRESACRAL"
+"FASCIA"
+"TUMOUR"
+"FIXED"
+"TO"
+"SACRUM"
+"POSTERIORLY"
+"-"
+"ABDOMINAL"
+"CAVITY"
+"CONTAMINATED"
+"BY"
+"PUS"
+"("
+"NO"
+"FAECES"
+")"
+"-"
+"LARGE"
+"UTERINE"
+"FIBROID"
+"OBSCURING"
+"PELVIC"
+"INLET"
+"-"
+"NO"
+"OBVIOUS"
+"LIVER"
+"/"
+"PERITONEAL"
+"/"
+"OVARIAN"
+"METS"
+"3008-18-080"
+"-"
+"C"
+"LOWER"
+"MIDLINE"
+"INCISION"
+"ONTABLE"
+"FLEXIBLE"
+"SIGMOIDOSCOPY"
+"PERFORMED"
+"COLONIC"
+"TUMOUR"
+"CONFIRMED"
+"AND"
+"BIOPSIED-"
+"NO"
+"ACTIVE"
+"AIR"
+"LEAK"
+"NOTED"
+"ABDOMINAL"
+"CAVITY"
+"WASHED"
+"OUT"
+"WITH"
+"COPIOUS"
+"AMOUNTS"
+"OF"
+"N"
+"/"
+"S"
+"("
+"5L"
+")"
+"BLAKE"
+"DRAIN"
+"INSERTED"
+"INTO"
+"PELVIS"
+"DISTAL"
+"WASHOUT"
+"PERFORMED"
+"MASS"
+"CLOSURE"
+"WITH"
+"LOOP"
+"PDS"
+"STAPLES"
+"TO"
+"SKIN"
+"SIGMOID"
+"COLOSTOMY"
+"MATURED"
+"OVER"
+"STOMA"
+"ROD"
+"IN"
+"LIF"
+"STOMA"
+"BAG"
+"APPLIED"
+"23"
+"-"
+"Apr"
+"-"
+"2017"
+"09:47"
+"AM"
+"52264933"
+":"
+"1"
+":"
+"1"
+"Final"
+"Printed"
+"from"
+":"
+"Singapore"
+"General"
+"Hospital"
+"Final"
+"Final"
+"Final"
+"Final"
+"Final"
+"FINDINGS"
+"AS"
+"NOTED"
+"DECISION"
+"MADE"
+"TO"
+"CONVERT"
+"TO"
+"OPEN"
+"DUE"
+"TO"
+"HEAVY"
+"AND"
+"LARGE"
+"UTERUS"
+"OBSCURING"
+"VIEW"
+"INTO"
+"PELVIS"
+"Final"
+"Final"
+"Final"
+"Final"
+"Final"
+"DISCUSSED"
+"WITH"
+"PROF"
+"TANG"
+"IN"
+"VIEW"
+"OF"
+"TUMOUR"
+"ADHERENCE"
+"TO"
+"SACRUM"
+"AND"
+"NO"
+"ACTIVE"
+"LEAK"
+"NOTED"
+"-"
+"DECISION"
+"MADE"
+"FOR"
+"DEFUNCTIONING"
+"SIGMOID"
+"COLOSTOMY"
+"AND"
+"WASHOUT"
+";"
+"FOR"
+"CONSIDERATION"
+"OF"
+"POST"
+"OP"
+"CHEMORADIOTHERAPY"
+"Final"
+"DOB"
+":"
+"21"
+"-"
+"Mar"
+"-"
+"1969"
+"ONTABLE"
+"FLEXIBLE"
+"SIGMOIDOSCOPY"
+"PERFORMED"
+"TO"
+"OBTAIN"
+"HISTO"
+"FROM"
+"TUMOUR"
+"Final"
+"Page"
+":"
+"1"
+"of"
+"2"
