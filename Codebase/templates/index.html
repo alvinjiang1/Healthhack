@@ -14,6 +14,14 @@
     {% if error %}
         <p>{{ error }}</p>
     {% endif %}
+    {% if image %}
+        <h2>Original Image:</h2>
+        <img src="{{ url_for('uploaded_image', filename=image) }}" alt="Uploaded Image">
+    {% endif %}
+    {% if annotated_image %}
+    <h2>Annotated Image:</h2>
+    <img src="{{ url_for('uploaded_image', filename=annotated_image) }}" alt="Annotated Image">
+    {% endif %}
     {% if result %}
         <h2>Text Extracted:</h2>
         <pre>{{ result }}</pre>

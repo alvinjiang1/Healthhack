@@ -1,0 +1,1119 @@
+[
+    {
+      "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+      "page": 1,
+      "lines@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+      "lines": [
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "TREL",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.052393272962483826,
+            "top": 0.2725,
+            "width": 0.35252263906856407,
+            "height": 0.07599999999999996,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.052393272962483826,
+                  "y": 0.2725
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.4049159120310479,
+                  "y": 0.2725
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.4049159120310479,
+                  "y": 0.3485
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.052393272962483826,
+                  "y": 0.348
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "TEXAS ROCKET ENGINEERING LAB",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.02328589909443726,
+            "top": 0.3555,
+            "width": 0.5135834411384218,
+            "height": 0.017500000000000016,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.02328589909443726,
+                  "y": 0.356
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.536869340232859,
+                  "y": 0.3555
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.536869340232859,
+                  "y": 0.373
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.02328589909443726,
+                  "y": 0.373
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Learn how YOU can build a",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6617076326002588,
+            "top": 0.4005,
+            "width": 0.31306597671410086,
+            "height": 0.021999999999999964,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6617076326002588,
+                  "y": 0.4005
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9747736093143596,
+                  "y": 0.401
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9747736093143596,
+                  "y": 0.4225
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6617076326002588,
+                  "y": 0.4225
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Recruitment Information",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.06144890038809832,
+            "top": 0.4445,
+            "width": 0.3829236739974127,
+            "height": 0.030999999999999972,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.06144890038809832,
+                  "y": 0.4445
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.444372574385511,
+                  "y": 0.4445
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.444372574385511,
+                  "y": 0.4755
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.062095730918499355,
+                  "y": 0.4755
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "collegiate liquid bi-propellant",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6384217335058214,
+            "top": 0.428,
+            "width": 0.331824062095731,
+            "height": 0.02250000000000002,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6384217335058214,
+                  "y": 0.428
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9702457956015524,
+                  "y": 0.428
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9702457956015524,
+                  "y": 0.4505
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6384217335058214,
+                  "y": 0.4505
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "rocket.",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.8926261319534282,
+            "top": 0.456,
+            "width": 0.08085381630012933,
+            "height": 0.019999999999999962,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.8926261319534282,
+                  "y": 0.4565
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9734799482535575,
+                  "y": 0.456
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9734799482535575,
+                  "y": 0.475
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.8932729624838293,
+                  "y": 0.476
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Sessions",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.062095730918499355,
+            "top": 0.4765,
+            "width": 0.1390685640362225,
+            "height": 0.03150000000000003,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.06274256144890039,
+                  "y": 0.4765
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.20116429495472185,
+                  "y": 0.4775
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.20051746442432083,
+                  "y": 0.508
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.062095730918499355,
+                  "y": 0.506
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "UT EER MULVA room",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.12871927554980594,
+            "top": 0.5255,
+            "width": 0.2820181112548512,
+            "height": 0.02300000000000002,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.129366106080207,
+                  "y": 0.5255
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.41073738680465716,
+                  "y": 0.5265
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.41009055627425617,
+                  "y": 0.5485
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.12871927554980594,
+                  "y": 0.5475
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "0.904",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.129366106080207,
+            "top": 0.5535,
+            "width": 0.07503234152652005,
+            "height": 0.019000000000000017,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.129366106080207,
+                  "y": 0.5535
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.203751617076326,
+                  "y": 0.5535
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.20439844760672704,
+                  "y": 0.572
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.129366106080207,
+                  "y": 0.5725
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Why Join?",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.5472186287192755,
+            "top": 0.5535,
+            "width": 0.17011642949547223,
+            "height": 0.03500000000000003,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.5472186287192755,
+                  "y": 0.5535
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.7173350582147477,
+                  "y": 0.5535
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.7173350582147477,
+                  "y": 0.5885
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.5472186287192755,
+                  "y": 0.5885
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Wednesday, January 22,",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.12871927554980594,
+            "top": 0.5955,
+            "width": 0.314359637774903,
+            "height": 0.02400000000000002,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.12871927554980594,
+                  "y": 0.5955
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.44307891332470895,
+                  "y": 0.596
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.4424320827943079,
+                  "y": 0.6195
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.12871927554980594,
+                  "y": 0.6175
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "6 -7 PM",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.13001293661060803,
+            "top": 0.622,
+            "width": 0.10543337645536868,
+            "height": 0.020499999999999963,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.13001293661060803,
+                  "y": 0.623
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.23479948253557567,
+                  "y": 0.622
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.23544631306597671,
+                  "y": 0.641
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.13001293661060803,
+                  "y": 0.6425
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Software experience",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6332470892626132,
+            "top": 0.623,
+            "width": 0.26714100905562743,
+            "height": 0.03200000000000003,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6338939197930142,
+                  "y": 0.623
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9003880983182406,
+                  "y": 0.6235
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9003880983182406,
+                  "y": 0.655
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6332470892626132,
+                  "y": 0.6545
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Thursday, January 23,",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.12807244501940493,
+            "top": 0.6485,
+            "width": 0.2807244501940491,
+            "height": 0.024500000000000077,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.12807244501940493,
+                  "y": 0.6485
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.4087968952134541,
+                  "y": 0.65
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.4087968952134541,
+                  "y": 0.673
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.12807244501940493,
+                  "y": 0.671
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "6-7 PM",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.1313065976714101,
+            "top": 0.674,
+            "width": 0.09702457956015523,
+            "height": 0.023499999999999965,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.1313065976714101,
+                  "y": 0.6745
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.2276843467011643,
+                  "y": 0.674
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.22833117723156532,
+                  "y": 0.697
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.1313065976714101,
+                  "y": 0.6975
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Real-world business/",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6345407503234153,
+            "top": 0.692,
+            "width": 0.2677878395860285,
+            "height": 0.027000000000000024,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6345407503234153,
+                  "y": 0.692
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9023285899094438,
+                  "y": 0.692
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9023285899094438,
+                  "y": 0.719
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6345407503234153,
+                  "y": 0.7185
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "marketing expertise",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6345407503234153,
+            "top": 0.7215,
+            "width": 0.259379042690815,
+            "height": 0.02849999999999997,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6345407503234153,
+                  "y": 0.722
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.8939197930142303,
+                  "y": 0.7215
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.8939197930142303,
+                  "y": 0.7495
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6345407503234153,
+                  "y": 0.75
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Open to all majors, undergraduates,",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.012289780077619664,
+            "top": 0.7765,
+            "width": 0.32729624838292365,
+            "height": 0.018500000000000072,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.012289780077619664,
+                  "y": 0.7765
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.3395860284605433,
+                  "y": 0.777
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.3395860284605433,
+                  "y": 0.795
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.012289780077619664,
+                  "y": 0.7945
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Practical",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6416558861578266,
+            "top": 0.783,
+            "width": 0.12160413971539452,
+            "height": 0.025499999999999967,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6416558861578266,
+                  "y": 0.784
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.7632600258732212,
+                  "y": 0.783
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.7632600258732212,
+                  "y": 0.8075
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6416558861578266,
+                  "y": 0.8085
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "and graduate students -",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.010996119016817595,
+            "top": 0.8005,
+            "width": 0.22703751617076326,
+            "height": 0.016000000000000014,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.010996119016817595,
+                  "y": 0.801
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.23803363518758086,
+                  "y": 0.8005
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.23803363518758086,
+                  "y": 0.8155
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.010996119016817595,
+                  "y": 0.8165
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "REQUIRED TO ATTEND AT LEAST",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.01034928848641656,
+            "top": 0.8205,
+            "width": 0.333117723156533,
+            "height": 0.01849999999999996,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.01034928848641656,
+                  "y": 0.8215
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.34346701164294957,
+                  "y": 0.8205
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.34346701164294957,
+                  "y": 0.838
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.01034928848641656,
+                  "y": 0.839
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "hardware skills",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.6403622250970246,
+            "top": 0.8125,
+            "width": 0.1998706338939198,
+            "height": 0.024499999999999966,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6403622250970246,
+                  "y": 0.8125
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.8402328589909444,
+                  "y": 0.8125
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.8402328589909444,
+                  "y": 0.837
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.6403622250970246,
+                  "y": 0.837
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "ONE INFO SESSION TO APPLY.",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.01034928848641656,
+            "top": 0.844,
+            "width": 0.30336351875808537,
+            "height": 0.01750000000000007,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.01034928848641656,
+                  "y": 0.8445
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.31371280724450196,
+                  "y": 0.844
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.31371280724450196,
+                  "y": 0.8615
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.01034928848641656,
+                  "y": 0.8615
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "GET IN TOUCH",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.025226390685640362,
+            "top": 0.8995,
+            "width": 0.13065976714100905,
+            "height": 0.019500000000000073,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.025226390685640362,
+                  "y": 0.8995
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.1558861578266494,
+                  "y": 0.8995
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.1558861578266494,
+                  "y": 0.919
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.025226390685640362,
+                  "y": 0.9185
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "o®",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.1888745148771022,
+            "top": 0.927,
+            "width": 0.0200517464424321,
+            "height": 0.0129999999999999,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.18952134540750323,
+                  "y": 0.927
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.2089262613195343,
+                  "y": 0.928
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.20827943078913325,
+                  "y": 0.94
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.1888745148771022,
+                  "y": 0.939
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "@texasrocketlab",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.222509702457956,
+            "top": 0.926,
+            "width": 0.1649417852522639,
+            "height": 0.01749999999999996,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.222509702457956,
+                  "y": 0.9265
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.3874514877102199,
+                  "y": 0.926
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.3874514877102199,
+                  "y": 0.9425
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.222509702457956,
+                  "y": 0.9435
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "trel@utexas.edu",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.57503234152652,
+            "top": 0.9275,
+            "width": 0.16429495472186284,
+            "height": 0.01749999999999996,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.57503234152652,
+                  "y": 0.9275
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.7393272962483829,
+                  "y": 0.9275
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.7393272962483829,
+                  "y": 0.945
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.57503234152652,
+                  "y": 0.945
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "in",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.18628719275549807,
+            "top": 0.963,
+            "width": 0.026520051746442425,
+            "height": 0.017000000000000015,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.18628719275549807,
+                  "y": 0.963
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.21216041397153945,
+                  "y": 0.9635
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.2128072445019405,
+                  "y": 0.98
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.1869340232858991,
+                  "y": 0.9795
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "Texas Rocket Engineering Lab",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.21992238033635186,
+            "top": 0.963,
+            "width": 0.3020698576972833,
+            "height": 0.020000000000000018,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.21992238033635186,
+                  "y": 0.963
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.5219922380336351,
+                  "y": 0.9635
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.5219922380336351,
+                  "y": 0.983
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.21992238033635186,
+                  "y": 0.982
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+          "text": "2501 Speedway, Austin, TX 78712",
+          "boundingBox": {
+            "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+            "left": 0.57503234152652,
+            "top": 0.962,
+            "width": 0.3531694695989651,
+            "height": 0.02200000000000002,
+            "polygon": {
+              "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+              "coordinates@odata.type": "#Collection(Microsoft.Dynamics.CRM.crmbaseentity)",
+              "coordinates": [
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.57503234152652,
+                  "y": 0.962
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9282018111254852,
+                  "y": 0.962
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.9282018111254852,
+                  "y": 0.9835
+                },
+                {
+                  "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+                  "x": 0.57503234152652,
+                  "y": 0.984
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
